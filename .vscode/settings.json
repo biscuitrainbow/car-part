@@ -1,0 +1,9 @@
+{
+    "emmet.includeLanguages": {
+        "blade": "html"
+    },
+    "emmet.triggerExpansionOnTab": true,
+    
+    "blade.format.enable": true,
+    "files.autoSave": "onFocusChange", // if you would like to enable blade format
+}
