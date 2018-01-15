@@ -77,7 +77,6 @@
 							</td>
 							<td>
 								<button class="ui basic mini compact icon button" @click="increseAmount(selectedSpare)"><i class="plus icon"></i></button>
-								<input type="text" v-model="selectedSpare.amount">
 								<span style="padding:10px;">@{{selectedSpare.amount}}</span>
 								<button class="ui basic mini compact icon button"  @click="decreseAmount(selectedSpare)"><i class="minus icon"></i></button>
 							</td>
